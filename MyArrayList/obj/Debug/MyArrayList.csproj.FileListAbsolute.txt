@@ -1,0 +1,7 @@
+C:\Users\muham\source\repos\MyArrayList\MyArrayList\bin\Debug\MyArrayList.exe.config
+C:\Users\muham\source\repos\MyArrayList\MyArrayList\bin\Debug\MyArrayList.exe
+C:\Users\muham\source\repos\MyArrayList\MyArrayList\bin\Debug\MyArrayList.pdb
+C:\Users\muham\source\repos\MyArrayList\MyArrayList\obj\Debug\MyArrayList.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\MyArrayList\MyArrayList\obj\Debug\MyArrayList.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\MyArrayList\MyArrayList\obj\Debug\MyArrayList.exe
+C:\Users\muham\source\repos\MyArrayList\MyArrayList\obj\Debug\MyArrayList.pdb
